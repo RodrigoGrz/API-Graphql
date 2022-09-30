@@ -7,6 +7,7 @@ Essa é uma API simples para entender o funcionamento do GrahpQL e como ele subs
 * Typscript
 * GraphQL
 * Apollo
+* Type GraphQL
 
 # Comandos
 
